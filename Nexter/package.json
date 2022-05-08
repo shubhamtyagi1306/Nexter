@@ -1,0 +1,11 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "Landing page of Nexter",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Shubham",
+  "license": "ISC"
+}
